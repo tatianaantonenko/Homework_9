@@ -1,0 +1,17 @@
+.my-row {
+	background: #134359;
+	width: 100%;
+	min-height: 150px;
+}
+
+.big {
+	min-height: 300px;
+	text-align: center;
+	padding: 100px 0;
+}
+
+p, h1 {
+	color: white;
+}
+
+
